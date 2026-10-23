@@ -1,0 +1,9 @@
+Python is a high level programming language used for software development, data science, artificial intelligence and automation.
+
+Machine learning is a branch of artificial intelligence where computers learn patterns from data.
+
+Deep learning is a subset of machine learning that uses neural networks with multiple layers.
+
+Transformers are neural network architectures that use attention mechanisms to process sequential data.
+
+ChromaDB is a vector database used to store embeddings and perform similarity searches.
